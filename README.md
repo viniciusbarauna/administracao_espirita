@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="\docs\Logo-Faculdade-Preto-Verde-May-10-2022-10-15-22-32-PM.png"/> alt="Banner do Projeto" />
+  <img src="\docs\Logo-Faculdade-Preto-Verde-May-10-2022-10-15-22-32-PM.png" alt="Banner do Projeto" />
 
   <br><br>
 
