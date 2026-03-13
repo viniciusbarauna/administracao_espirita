@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Em%20Andamento-FFC107?style=for-the-badge&logoColor=black" alt="Status - Em Andamento" />
   </p>
 </div>
 
@@ -72,7 +72,8 @@ Para rodar esta aplicação na sua máquina, você precisará de um servidor loc
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/viniciusbarauna/administracao_espirita]
-   Configuração do Banco de Dados:
+
+Configuração do Banco de Dados:
 
 2. Abra o phpMyAdmin (ou seu gerenciador preferido).
 
@@ -94,6 +95,21 @@ Login padrão de teste: (Adicione aqui o e-mail e a senha do admin mestre gerado
 
 👨‍💻 Autor
 Criado e desenvolvido por Vinícius Baraúna Lins, estudante de Análise e Desenvolvimento de Sistemas da faculdade Descomplica. Feito com dedicação para unir tecnologia e impacto social.
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://www.meliuz.com.br/desconto/cupom-descomplica-faculdade"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-barauna-l" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Vinícius">
+  </a>
+  <a href="https://github.com/viniciusbarauna" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub do Vinícius">
+  </a>
+  <a href="mailto:vini2barauna@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Principal">
+  </a>
+  <a href="mailto:vinicius.barauna@ufrpe.br" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail_Acadêmico-0052CC?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Acadêmico">
+  </a>
+</div>
+CONTATO:
 
 <p align="center">Feito com ❤️ em Recife/PE.</p>
