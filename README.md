@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300/0d6efd/ffffff?text=Sistema+de+Gestão+-+Lar+Espírita" alt="Banner do Projeto" />
+  <img src="https://no.descomplica.com.br/knowledge" alt="Banner do Projeto" />
 
   <br><br>
 
@@ -89,13 +89,13 @@ Acesse o arquivo config.php e ajuste as credenciais do seu banco de dados (usuá
 
 Inicie o Apache e o MySQL no seu servidor local.
 
-Acesse no navegador: http://localhost/nome-da-pasta-do-projeto
+Acesse no navegador: "http://localhost/administracao_espirita"
 
-Login padrão de teste: (Adicione aqui o e-mail e a senha do admin mestre gerado para testes).
+Use o Login padrão de teste.
 
 👨‍💻 Autor
 Criado e desenvolvido por Vinícius Baraúna Lins, estudante de Análise e Desenvolvimento de Sistemas da faculdade Descomplica. Feito com dedicação para unir tecnologia e impacto social.
-<img src="https://www.meliuz.com.br/desconto/cupom-descomplica-faculdade"/>
+<img src="https://no.descomplica.com.br/knowledge"/>
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-barauna-l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Vinícius">
