@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="\docs\Logo-Faculdade-Preto-Verde-May-10-2022-10-15-22-32-PM.png" alt="Banner do Projeto" />
+  <img src="\docs\8.png" alt="Banner do Projeto" />
 
   <br><br>
 
@@ -95,7 +95,7 @@ Use o Login padrão de teste.
 
 👨‍💻 Autor
 Criado e desenvolvido por Vinícius Baraúna Lins, estudante de Análise e Desenvolvimento de Sistemas da faculdade Descomplica. Feito com dedicação para unir tecnologia e impacto social.
-<img src="\docs\Logo-Faculdade-Preto-Verde-May-10-2022-10-15-22-32-PM.png"/>
+<img src="\docs\8.png"/>
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-barauna-l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Vinícius">
