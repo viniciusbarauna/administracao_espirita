@@ -93,9 +93,12 @@ Acesse no navegador: "http://localhost/administracao_espirita"
 
 Use o Login padrão de teste.
 
-👨‍💻 Autor
+## 👨‍💻 **Autor**
 
 Criado e desenvolvido por Vinícius Baraúna Lins, estudante de Análise e Desenvolvimento de Sistemas da faculdade Descomplica. Feito com dedicação para unir tecnologia e impacto social.
+
+**CONTATO:**
+
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-barauna-l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Vinícius">
@@ -110,6 +113,6 @@ Criado e desenvolvido por Vinícius Baraúna Lins, estudante de Análise e Desen
     <img src="https://img.shields.io/badge/E--mail_Acadêmico-0052CC?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Acadêmico">
   </a>
 </div>
-CONTATO:
+
 
 <p align="center">Feito com ❤️ em Recife/PE.</p>
